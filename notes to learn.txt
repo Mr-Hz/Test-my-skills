@@ -1,0 +1,19 @@
+you can spicifiy a sytle in the <head><style> with a sipsific attribute with (for example):
+
+h1{ in here you will write the atts that you need font-size, color etc.}
+
+class:
+
+can be clasified in the <head><style> by
+
+.name of class' then { 'here you write the att that you want for that class'}
+
+a class will overwrite styles
+
+ID:
+
+similer to class but it can only be used on one element and it will overwrite all classes and styles
+
+can be clasified in the <head><style> by
+
+#'name of the ID'{ ' here you will right the att that you want for the ID'}
