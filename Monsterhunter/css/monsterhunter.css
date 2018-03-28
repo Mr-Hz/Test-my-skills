@@ -1,0 +1,51 @@
+/*<head>
+	<title>Rathalos</title>
+	<link rel="stylesheet" type="text/css" href="css/monsterhunter.css">
+</head>*/
+
+html, body {
+	font-family: arial, sans serif;
+	padding: 0;
+	margin: 0;
+}
+header{
+	font-size: 50px; background-color: #990000; padding: 40px; text-align: center;
+}
+header h1{
+	font-size: 90px;
+	color: white
+}
+header img{
+	border-radius: 25px; border: 5px solid #330000;
+}
+.legends{
+	background-color: orange
+	; width:400px
+}
+.content{
+	max-width:900px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 0 20px;
+}
+#DMG-Rathalos{
+	max-width: 80%;
+}
+
+ul{
+	text-align: center;
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+footer{
+	padding: 40px 20px;
+	color:  #FFFFFF;
+	background-color: black;
+}
+
+footer ul li{
+	display: inline-block;
+	margin:0 6px;
+	word-spacing: 30px;
+}
